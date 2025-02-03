@@ -571,7 +571,7 @@ Awesome, great job!
 
 ## Github Project Repo
 
-You can find the complete code for this project in the following [Github repo](https://github.com/PaulBratslavsky/react-router-7-strapi-5-example).
+You can find the complete code for this project in the following [Github repo](https://github.com/PaulBratslavsky/strapi-tanstack-example).
 
 ## Strapi Open Office Hours
 
