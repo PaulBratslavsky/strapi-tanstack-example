@@ -2,6 +2,8 @@
 
 TanStack Start introduces several enhancements that aim to improve developer workflow and application performance. Here's a breakdown:
 
+![0-tanstack-start.png](img/0-tanstack-start.png)
+
 TanStack Start offers a comprehensive framework for building modern web applications with advanced features and improved developer experience.
 
 ### For Developers:
@@ -559,11 +561,11 @@ Now let's run the following to install the `react-markdown` and `remark-gfm` pac
 
 Now restart your TanStack Start app and navigate to **Posts** select an article, you should see the following:
 
-![011-react-router-7.png](https://delicate-dawn-ac25646e6d.media.strapiapp.com/011_react_router_7_53f8e14a6d.png)
+![003-tanstack-start.png](img/003-tanstack-start.png)
 
 And if you click on **Read Full Article**, you should see the following:
 
-![012-react-router-7.png](https://delicate-dawn-ac25646e6d.media.strapiapp.com/012_react_router_7_53f8e14a6d.png)
+![004-tanstack-start.png](img/004-tanstack-start.png)
 
 Awesome, great job!
 
@@ -575,4 +577,4 @@ You can find the complete code for this project in the following [Github repo](h
 
 If you have any questions about Strapi 5 or just would like to stop by and say hi, you can join us at **Strapi's Discord Open Office Hours** Monday through Friday at 12:30 pm - 1:30 pm CST: [Strapi Discord Open Office Hours](https://discord.com/invite/strapi)
 
-For more details, visit the [Strapi documentation](https://strapi.io/documentation) and [React Router 7 documentation](https://reactrouter.com/home).
+For more details, visit the [Strapi documentation](https://strapi.io/documentation) and [TanStack Start documentation](https://tanstack.com/start/latest/docs/framework/react/quick-start).
